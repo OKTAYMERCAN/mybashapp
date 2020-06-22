@@ -1,5 +1,3 @@
 # mybashapp
-Don't use commercial. Give original soruce link and put these two link.
-Youtube.com/OKTAYMERCAN
-Twitch.tv/OKTAYMERCANTV
 
+This work by Oktay Mercan is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0
